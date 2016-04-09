@@ -1,7 +1,7 @@
 ﻿using System;
 using Fiddler;
 
-namespace Ext.Fiddler4.NetScalerInspector
+namespace Ext.Fiddler.NetScalerInspector
 {
   public class RequestInspectors : NetScalerCookieInspector, IRequestInspector2
   {

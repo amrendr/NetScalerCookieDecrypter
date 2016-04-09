@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Windows.Forms;
 using Fiddler;
 
-namespace Ext.Fiddler4.NetScalerInspector
+namespace Ext.Fiddler.NetScalerInspector
 {
   public partial class NetscalerCookieInfo : UserControl
   {

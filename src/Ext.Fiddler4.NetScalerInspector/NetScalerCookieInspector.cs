@@ -6,7 +6,7 @@ using Fiddler;
 using NetScalerCookieDecrypter;
 
 [assembly: Fiddler.RequiredVersion("2.4.2.6")]
-namespace Ext.Fiddler4.NetScalerInspector
+namespace Ext.Fiddler.NetScalerInspector
 {
   public class NetScalerCookieInspector : Inspector2
   {
