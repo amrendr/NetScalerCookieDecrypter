@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.DecryptNetScalerCookie"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ext.Fiddler4", "Ext.Fiddler4", "{0127BB96-72C0-4B20-9040-6F6CD5C6DE30}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ext.Fiddler2", "Ext.Fiddler2", "{DC7DB89D-9A0B-4EFE-9AD8-87C1F84FB55E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
