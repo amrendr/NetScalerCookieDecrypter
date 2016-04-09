@@ -7,11 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetScalerCookieDecrypter", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console.DecryptNetScalerCookie", "Console.DecryptNetScalerCookie\Console.DecryptNetScalerCookie.csproj", "{E2A97E48-7C26-4FAD-8FFB-910CA6317D4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ext.Fiddler.NetScalerInspector", "Ext.Fiddler.NetScalerInspector\Ext.Fiddler.NetScalerInspector.csproj", "{66C3D4B0-84AA-4072-856E-FF9B417E79B0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ext.Fiddler4.NetScalerInspector", "Ext.Fiddler.NetScalerInspector\Ext.Fiddler4.NetScalerInspector.csproj", "{66C3D4B0-84AA-4072-856E-FF9B417E79B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ext.Fiddler.NetScalerMenu", "Ext.Fiddler.NetScalerMenu\Ext.Fiddler.NetScalerMenu.csproj", "{22A9CB2E-4C80-4A89-B473-493A8818C03B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ext.Fiddler4.NetScalerMenu", "Ext.Fiddler.NetScalerMenu\Ext.Fiddler4.NetScalerMenu.csproj", "{22A9CB2E-4C80-4A89-B473-493A8818C03B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.DecryptNetScalerCookie", "Web.DecryptNetScalerCookie\Web.DecryptNetScalerCookie.csproj", "{91D2CFA2-B9F9-4460-8B11-C023C52272E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ext.Fiddler4", "Ext.Fiddler4", "{0127BB96-72C0-4B20-9040-6F6CD5C6DE30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -42,5 +44,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{66C3D4B0-84AA-4072-856E-FF9B417E79B0} = {0127BB96-72C0-4B20-9040-6F6CD5C6DE30}
+		{22A9CB2E-4C80-4A89-B473-493A8818C03B} = {0127BB96-72C0-4B20-9040-6F6CD5C6DE30}
 	EndGlobalSection
 EndGlobal

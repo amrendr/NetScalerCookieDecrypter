@@ -43,14 +43,14 @@
                   This extension can identify netscaler cookie and decrypt it right there for easy access. This may help you identify the server which is not playing nice. Give them yellow card or red card, its all up to you.
                   <ol>
                     <li>
-                      <a href="./files/Ext.Fiddler.NetScalerInspector.dll"><b>Click here</b></a> to download the netscaler cookie decryption fiddler extenstion dll.
-                      <b>Ext.Fiddler.NetScalerInspector.dll</b>
+                      <a href="./files/Ext.Fiddler4.NetScalerInspector.dll"><b>Click here</b></a> to download the netscaler cookie decryption fiddler extenstion dll.
+                      <b>Ext.Fiddler4.NetScalerInspector.dll</b>
                     </li>
                     <li>Open your fiddler4 install directory. Usually --
                       <b>C:\Program Files (x86)\Fiddler2</b>
                     </li>
                     <li>Drop the downloaded dll (
-                      <b>Ext.Fiddler.NetScalerInspector.dll</b>) in step in 1 to
+                      <b>Ext.Fiddler4.NetScalerInspector.dll</b>) in step in 1 to
                       <b>Inspectors</b> directory.
                     </li>
                     <li>
@@ -70,11 +70,11 @@
                   Are you using fiddler within the firewall? Can you ping server ip from that machine? If you said YES, this extension can lookup the server name for you. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   <ol>
                     <li>
-                      <a href="./files/Ext.Fiddler.NetScalerMenu.dll"><b>Click here</b></a> to download the server name lookup fiddler extenstion dll. <b>Ext.Fiddler.NetScalerMenu.dll</b>
+                      <a href="./files/Ext.Fiddler4.NetScalerMenu.dll"><b>Click here</b></a> to download the server name lookup fiddler extenstion dll. <b>Ext.Fiddler4.NetScalerMenu.dll</b>
                     </li>
                     <li>Open your fiddler4 install directory. Usually -- <b>C:\Program Files (x86)\Fiddler2</b>
                     </li>
-                    <li>Drop the downloaded dll (<b>Ext.Fiddler.NetScalerMenu.dll</b>) in step in 1 to <b>Scripts</b> directory.
+                    <li>Drop the downloaded dll (<b>Ext.Fiddler4.NetScalerMenu.dll</b>) in step in 1 to <b>Scripts</b> directory.
                     </li>
                     <li>
                       <b>Restart</b> Fiddler.

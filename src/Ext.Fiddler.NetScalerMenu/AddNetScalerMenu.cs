@@ -3,7 +3,7 @@ using System.Windows.Forms;
 using Fiddler;
 
 [assembly: Fiddler.RequiredVersion("2.4.2.6")]
-namespace Ext.Fiddler.NetScalerMenu
+namespace Ext.Fiddler4.NetScalerMenu
 {
   public class AddNetScalerMenu : IFiddlerExtension
   {

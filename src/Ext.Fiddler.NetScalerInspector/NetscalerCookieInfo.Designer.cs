@@ -1,4 +1,4 @@
-﻿namespace Ext.Fiddler.NetScalerInspector
+﻿namespace Ext.Fiddler4.NetScalerInspector
 {
   partial class NetscalerCookieInfo
   {

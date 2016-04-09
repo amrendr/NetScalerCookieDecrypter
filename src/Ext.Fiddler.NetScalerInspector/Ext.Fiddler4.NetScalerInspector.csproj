@@ -7,8 +7,8 @@
     <ProjectGuid>{66C3D4B0-84AA-4072-856E-FF9B417E79B0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Ext.Fiddler.NetScalerInspector</RootNamespace>
-    <AssemblyName>Ext.Fiddler.NetScalerInspector</AssemblyName>
+    <RootNamespace>Ext.Fiddler4.NetScalerInspector</RootNamespace>
+    <AssemblyName>Ext.Fiddler4.NetScalerInspector</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
