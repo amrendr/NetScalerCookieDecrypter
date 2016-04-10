@@ -213,3 +213,4 @@ ModelManifest.xml
 /src/Web.DecryptNetScalerCookie/Web.Debug.config
 /src/Web.DecryptNetScalerCookie/Web.Release.config
 /src/Web.DecryptNetScalerCookie/Properties/PublishProfiles
+/src/Web.DecryptNetScalerCookie/files/*.dll
