@@ -11,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ext.Fiddler4.NetScalerInspe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ext.Fiddler4.NetScalerMenu", "Ext.Fiddler4.NetScalerMenu\Ext.Fiddler4.NetScalerMenu.csproj", "{22A9CB2E-4C80-4A89-B473-493A8818C03B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.DecryptNetScalerCookie", "Web.DecryptNetScalerCookie\Web.DecryptNetScalerCookie.csproj", "{91D2CFA2-B9F9-4460-8B11-C023C52272E8}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ext.Fiddler4", "Ext.Fiddler4", "{0127BB96-72C0-4B20-9040-6F6CD5C6DE30}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ext.Fiddler2", "Ext.Fiddler2", "{DC7DB89D-9A0B-4EFE-9AD8-87C1F84FB55E}"
@@ -20,6 +18,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ext.Fiddler2.NetScalerInspector", "Ext.Fiddler2.NetScalerInspector\Ext.Fiddler2.NetScalerInspector.csproj", "{1644DD52-6004-4D71-8439-0440D3862CC7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ext.Fiddler2.NetScalerMenu", "Ext.Fiddler2.NetScalerMenu\Ext.Fiddler2.NetScalerMenu.csproj", "{FEB97410-A159-4F41-81D1-A78869440C44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.DecryptNetScalerCookie", "Web.DecryptNetScalerCookie\Web.DecryptNetScalerCookie.csproj", "{4F3E8118-AEBD-44DF-B17C-CD7828B3CC01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,10 +43,6 @@ Global
 		{22A9CB2E-4C80-4A89-B473-493A8818C03B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22A9CB2E-4C80-4A89-B473-493A8818C03B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22A9CB2E-4C80-4A89-B473-493A8818C03B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{91D2CFA2-B9F9-4460-8B11-C023C52272E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{91D2CFA2-B9F9-4460-8B11-C023C52272E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{91D2CFA2-B9F9-4460-8B11-C023C52272E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{91D2CFA2-B9F9-4460-8B11-C023C52272E8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1644DD52-6004-4D71-8439-0440D3862CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1644DD52-6004-4D71-8439-0440D3862CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1644DD52-6004-4D71-8439-0440D3862CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -55,6 +51,10 @@ Global
 		{FEB97410-A159-4F41-81D1-A78869440C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEB97410-A159-4F41-81D1-A78869440C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEB97410-A159-4F41-81D1-A78869440C44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F3E8118-AEBD-44DF-B17C-CD7828B3CC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3E8118-AEBD-44DF-B17C-CD7828B3CC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3E8118-AEBD-44DF-B17C-CD7828B3CC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3E8118-AEBD-44DF-B17C-CD7828B3CC01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
